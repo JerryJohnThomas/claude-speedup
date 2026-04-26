@@ -25,9 +25,7 @@ Click the extension icon in your toolbar to toggle it on/off or change how many 
 
 Targets internal Tailwind/React class names that Anthropic could change. If it stops working after a Claude update, open an issue.
 
-This has been vibe coded with Claude,  and original inspiration is ![Light Session](https://chromewebstore.google.com/detail/chatgpt-lightsession/fmomjhjnmgpknbabfpojgifokaibeoje)
-
-Inspired by [LightSession](https://chromewebstore.google.com/detail/chatgpt-lightsession/fmomjhjnmgpknbabfpojgifokaibeoje) for ChatGPT
+This has been vibe coded with Claude, Inspired by [LightSession](https://chromewebstore.google.com/detail/chatgpt-lightsession/fmomjhjnmgpknbabfpojgifokaibeoje) for ChatGPT
 
 ## License
 
