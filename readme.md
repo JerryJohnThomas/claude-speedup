@@ -1,4 +1,4 @@
-# claude-speed (extension)
+# claude-speedup (extension)
 
 Fixes UI lag in long Claude.ai conversations.
 
@@ -14,7 +14,7 @@ Detaches old message wrappers from the DOM entirely and replaces them with light
 
 1. Download or clone this repo
 2. Go to `chrome://extensions` → enable **Developer mode**
-3. Click **Load unpacked** → select the `claude-speed` folder
+3. Click **Load unpacked** → select the `claude-speedup` folder
 4. Open Claude, hard refresh (`Ctrl+Shift+R`), done
 
 ## Usage
